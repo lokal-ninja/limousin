@@ -1,0 +1,19 @@
+baseURL = "https://fr.shoogle.net/limousin"
+languageCode = "fr"
+title = "Limousin"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "limousin"
+
+[taxonomies]
+  shop = "shops"

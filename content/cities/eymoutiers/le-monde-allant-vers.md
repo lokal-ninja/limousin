@@ -1,5 +1,5 @@
 ---
-title: "Le monde allant vers"
+title: "Le Monde Allant Vers"
 url: /eymoutiers/le-monde-allant-vers/
 shop: charité
 ---

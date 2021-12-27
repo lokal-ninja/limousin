@@ -1,6 +1,6 @@
 ---
 title: Couzeix
 url: /couzeix/
-latitude: 45.8789214
-longitude: 1.2379652
+latitude: 45.881
+longitude: 1.221
 ---

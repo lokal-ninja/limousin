@@ -1,6 +1,6 @@
 ---
 title: Argentat
 url: /argentat/
-latitude: 45.092306
-longitude: 1.9377822
+latitude: 45.093
+longitude: 1.938
 ---

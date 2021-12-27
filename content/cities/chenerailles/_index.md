@@ -1,6 +1,6 @@
 ---
 title: Chénérailles
 url: /chenerailles/
-latitude: 46.1119429
-longitude: 2.1763417
+latitude: 46.113
+longitude: 2.177
 ---

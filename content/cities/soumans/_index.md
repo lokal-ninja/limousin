@@ -1,6 +1,6 @@
 ---
 title: Soumans
 url: /soumans/
-latitude: 46.3011147
-longitude: 2.3077079
+latitude: 46.301
+longitude: 2.306
 ---

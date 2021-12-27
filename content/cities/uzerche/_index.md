@@ -1,6 +1,6 @@
 ---
 title: Uzerche
 url: /uzerche/
-latitude: 45.4243315
-longitude: 1.5637278000000001
+latitude: 45.425
+longitude: 1.565
 ---

@@ -1,6 +1,6 @@
 ---
 title: Razès
 url: /razes/
-latitude: 46.0336176
-longitude: 1.3455221000000002
+latitude: 46.036
+longitude: 1.345
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gentioux-Pigerolles
 url: /gentioux-pigerolles/
-latitude: 45.7847255
-longitude: 1.9953564000000001
+latitude: 45.781
+longitude: 2.063
 ---

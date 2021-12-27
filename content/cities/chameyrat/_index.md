@@ -1,6 +1,6 @@
 ---
 title: Chameyrat
 url: /chameyrat/
-latitude: 45.6219339
-longitude: 1.6691146000000001
+latitude: 45.226
+longitude: 1.71
 ---

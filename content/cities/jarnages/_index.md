@@ -1,6 +1,6 @@
 ---
 title: Jarnages
 url: /jarnages/
-latitude: 46.1812789
-longitude: 2.0848749
+latitude: 46.181
+longitude: 2.085
 ---

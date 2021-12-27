@@ -1,6 +1,6 @@
 ---
 title: Isle
 url: /isle/
-latitude: 45.8055591
-longitude: 1.2238259
+latitude: 45.819
+longitude: 1.235
 ---

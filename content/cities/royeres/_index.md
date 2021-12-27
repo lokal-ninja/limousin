@@ -1,6 +1,6 @@
 ---
 title: ROYERES
 url: /royeres/
-latitude: 
-longitude: 
+latitude: 45.849
+longitude: 1.429
 ---

@@ -1,6 +1,6 @@
 ---
 title: Panazol
 url: /panazol/
-latitude: 45.836997100000005
-longitude: 1.3059422
+latitude: 45.828
+longitude: 1.295
 ---

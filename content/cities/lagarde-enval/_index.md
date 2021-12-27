@@ -1,6 +1,6 @@
 ---
 title: Lagarde-Enval
 url: /lagarde-enval/
-latitude: 
-longitude: 
+latitude: 45.186
+longitude: 1.807
 ---

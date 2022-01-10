@@ -1,5 +1,5 @@
 ---
 title: "Glass & Wash Automobiles"
-url: /malemort-sur-correze/glass-and-wash-automobiles/
+url: /malemort-sur-correze/glass-et-wash-automobiles/
 shop: voiture
 ---

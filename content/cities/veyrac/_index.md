@@ -1,6 +1,6 @@
 ---
 title: Veyrac
 url: /veyrac/
-latitude: 45.898
-longitude: 1.105
+latitude: 45.894
+longitude: 1.106
 ---

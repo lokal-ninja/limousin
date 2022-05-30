@@ -1,6 +1,6 @@
 ---
 title: Ussel
 url: /ussel/
-latitude: 45.544
-longitude: 2.298
+latitude: 45.565
+longitude: 2.328
 ---

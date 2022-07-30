@@ -2,5 +2,5 @@
 title: Treignac
 url: /treignac/
 latitude: 45.536
-longitude: 1.794
+longitude: 1.793
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rochechouart
 url: /rochechouart/
-latitude: 45.824
-longitude: 0.82
+latitude: 45.822
+longitude: 0.822
 ---

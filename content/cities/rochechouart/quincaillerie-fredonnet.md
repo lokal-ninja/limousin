@@ -1,5 +1,5 @@
 ---
-title: "Quincaillerie FREDONNET"
+title: "Quincaillerie Fredonnet"
 url: /rochechouart/quincaillerie-fredonnet/
 shop: matériel informatique
 ---

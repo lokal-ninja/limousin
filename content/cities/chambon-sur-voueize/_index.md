@@ -1,6 +1,6 @@
 ---
 title: Chambon-sur-Voueize
 url: /chambon-sur-voueize/
-latitude: 46.198
-longitude: 2.427
+latitude: 46.188
+longitude: 2.418
 ---

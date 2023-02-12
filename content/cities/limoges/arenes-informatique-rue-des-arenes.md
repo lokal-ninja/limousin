@@ -1,5 +1,5 @@
 ---
 title: "Arènes Informatique"
-url: /limoges/arenes-informatique-2/
+url: /limoges/arenes-informatique/
 shop: ordinateur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Châteauponsac
 url: /chateauponsac/
-latitude: 46.132
-longitude: 1.276
+latitude: 46.135
+longitude: 1.27
 ---

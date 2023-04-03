@@ -1,5 +1,5 @@
 ---
 title: "Chabroullet"
 url: /chateauponsac/chabroullet/
-shop: fleuriste
+shop: directeurs de funérailles
 ---

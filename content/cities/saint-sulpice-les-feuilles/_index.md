@@ -1,6 +1,6 @@
 ---
-title: Saint-Sulpice-les-Feuilles
+title: Saint Sulpice les feuilles
 url: /saint-sulpice-les-feuilles/
-latitude: 46.316
-longitude: 1.369
+latitude: 46.314
+longitude: 1.417
 ---

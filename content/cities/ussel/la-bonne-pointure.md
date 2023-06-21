@@ -1,5 +1,5 @@
 ---
-title: "LA BONNE POINTURE"
+title: "La Bonne Pointure"
 url: /ussel/la-bonne-pointure/
 shop: chaussures
 ---

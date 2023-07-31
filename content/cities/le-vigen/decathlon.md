@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /le-vigen/decathlon/
-shop: sports
+shop: vacant
 ---

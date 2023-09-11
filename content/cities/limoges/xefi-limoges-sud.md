@@ -1,5 +1,5 @@
 ---
 title: "XEFI Limoges-SUD"
-url: /isle/xefi-limoges-sud/
+url: /limoges/xefi-limoges-sud/
 shop: ordinateur
 ---

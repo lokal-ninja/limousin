@@ -1,5 +1,5 @@
 ---
 title: "Nicolas"
-url: /limoges/nicolas/
+url: /limoges/nicolas-rue-des-halles/
 shop: alcool
 ---

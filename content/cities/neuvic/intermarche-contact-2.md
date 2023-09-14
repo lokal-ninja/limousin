@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Contact"
-url: /neuvic/intermarche-contact/
+url: /neuvic/intermarche-contact-2/
 shop: gaz
 ---

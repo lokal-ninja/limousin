@@ -1,6 +1,6 @@
 ---
 title: Meymac
 url: /meymac/
-latitude: 45.533
-longitude: 2.149
+latitude: 45.535
+longitude: 2.147
 ---

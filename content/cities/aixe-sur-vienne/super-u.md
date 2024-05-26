@@ -1,0 +1,5 @@
+---
+title: "Super U"
+url: /aixe-sur-vienne/super-u/
+shop: supermarché
+---

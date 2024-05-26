@@ -1,5 +1,0 @@
----
-title: "Au comptoir des vignes"
-url: /limoges/au-comptoir-des-vignes-rue-francois-arago/
-shop: alcool
----

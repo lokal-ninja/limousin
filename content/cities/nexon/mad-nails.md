@@ -1,5 +1,5 @@
 ---
 title: "Mad nails"
 url: /nexon/mad-nails/
-shop: beauté
+shop: Kosmetik
 ---

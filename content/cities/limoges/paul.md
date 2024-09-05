@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /limoges/paul/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /saint-junien/yves-rocher/
-shop: beauté
+shop: Kosmetik
 ---

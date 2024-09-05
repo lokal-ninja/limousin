@@ -1,5 +1,5 @@
 ---
 title: "Symphorine"
 url: /limoges/symphorine/
-shop: fleuriste
+shop: Blumen
 ---

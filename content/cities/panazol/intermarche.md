@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /panazol/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

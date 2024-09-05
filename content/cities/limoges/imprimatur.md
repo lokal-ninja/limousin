@@ -1,5 +1,5 @@
 ---
 title: "Imprimatur"
 url: /limoges/imprimatur/
-shop: copyshop
+shop: Kopieren
 ---

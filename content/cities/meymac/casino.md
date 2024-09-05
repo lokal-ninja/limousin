@@ -1,5 +1,5 @@
 ---
 title: "Casino"
 url: /meymac/casino/
-shop: supermarché
+shop: Supermarkt
 ---

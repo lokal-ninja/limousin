@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /panazol/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

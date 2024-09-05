@@ -1,5 +1,5 @@
 ---
 title: "Cora"
 url: /limoges/cora/
-shop: supermarché
+shop: Supermarkt
 ---

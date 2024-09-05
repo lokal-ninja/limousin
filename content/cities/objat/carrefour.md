@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /objat/carrefour/
-shop: supermarché
+shop: Supermarkt
 ---

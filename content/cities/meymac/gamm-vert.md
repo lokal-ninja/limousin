@@ -1,5 +1,5 @@
 ---
 title: "Gamm Vert"
 url: /meymac/gamm-vert/
-shop: centre de jardinage
+shop: Garten-Center
 ---

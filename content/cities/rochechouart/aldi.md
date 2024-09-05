@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /rochechouart/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

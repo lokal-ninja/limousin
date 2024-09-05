@@ -1,5 +1,5 @@
 ---
 title: "d'Orsay Fleur"
 url: /limoges/dorsay-fleur/
-shop: fleuriste
+shop: Blumen
 ---

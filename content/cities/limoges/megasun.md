@@ -1,5 +1,5 @@
 ---
 title: "Mégasun"
 url: /limoges/megasun/
-shop: beauté
+shop: Kosmetik
 ---

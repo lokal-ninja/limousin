@@ -1,5 +1,5 @@
 ---
 title: "Jarnages Automobiles"
 url: /jarnages/jarnages-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

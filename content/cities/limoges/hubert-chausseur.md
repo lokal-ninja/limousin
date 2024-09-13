@@ -1,5 +1,5 @@
 ---
 title: "Hubert Chausseur"
 url: /limoges/hubert-chausseur/
-shop: Schuhe
+shop: chaussures
 ---

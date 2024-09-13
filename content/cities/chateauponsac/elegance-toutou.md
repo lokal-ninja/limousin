@@ -1,5 +1,5 @@
 ---
 title: "Elegance toutou"
 url: /chateauponsac/elegance-toutou/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

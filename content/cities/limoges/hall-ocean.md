@@ -1,5 +1,5 @@
 ---
 title: "Hall Océan"
 url: /limoges/hall-ocean/
-shop: Fisch
+shop: fruits de mer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ussel Auto Accessoires"
 url: /ussel/ussel-auto-accessoires-avenue-carnot/
-shop: Autoteile
+shop: pièces de voitures
 ---

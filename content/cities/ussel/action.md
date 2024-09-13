@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /ussel/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

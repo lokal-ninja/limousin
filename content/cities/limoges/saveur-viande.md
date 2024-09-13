@@ -1,5 +1,5 @@
 ---
 title: "Saveur Viande"
 url: /limoges/saveur-viande/
-shop: Metzgerei
+shop: boucherie
 ---

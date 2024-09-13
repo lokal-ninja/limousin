@@ -1,5 +1,5 @@
 ---
 title: "Epicerie Sadrocoise"
 url: /sadroc/epicerie-sadrocoise/
-shop: Lebensmittel
+shop: commodité
 ---

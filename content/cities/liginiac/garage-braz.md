@@ -1,5 +1,5 @@
 ---
 title: "Garage Braz"
 url: /liginiac/garage-braz/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

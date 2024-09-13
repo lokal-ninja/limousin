@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /meymac/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

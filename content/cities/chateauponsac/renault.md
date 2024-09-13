@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /chateauponsac/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

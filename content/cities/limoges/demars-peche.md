@@ -1,5 +1,5 @@
 ---
 title: "Demars Pêche"
 url: /limoges/demars-peche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

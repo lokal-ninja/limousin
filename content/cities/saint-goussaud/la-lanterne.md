@@ -1,5 +1,5 @@
 ---
 title: "La Lanterne"
 url: /saint-goussaud/la-lanterne/
-shop: Lebensmittel
+shop: commodité
 ---

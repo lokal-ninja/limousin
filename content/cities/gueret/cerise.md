@@ -1,5 +1,5 @@
 ---
 title: "Cerise"
 url: /gueret/cerise/
-shop: Kleidung
+shop: vêtements
 ---

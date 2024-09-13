@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie BLG"
 url: /brive-la-gaillarde/boulangerie-blg/
-shop: Bäckerei
+shop: boulangerie
 ---

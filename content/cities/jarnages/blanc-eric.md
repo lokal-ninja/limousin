@@ -1,5 +1,5 @@
 ---
 title: "Blanc Eric"
 url: /jarnages/blanc-eric/
-shop: Bäckerei
+shop: boulangerie
 ---

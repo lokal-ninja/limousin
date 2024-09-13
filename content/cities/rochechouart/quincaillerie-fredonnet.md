@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie Fredonnet"
 url: /rochechouart/quincaillerie-fredonnet/
-shop: Eisenwaren
+shop: matériel informatique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /ayen/utile/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /aixe-sur-vienne/weldom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

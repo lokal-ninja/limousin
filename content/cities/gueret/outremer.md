@@ -1,5 +1,5 @@
 ---
 title: "Outremer"
 url: /gueret/outremer/
-shop: Kleidung
+shop: vêtements
 ---

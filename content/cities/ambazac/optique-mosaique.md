@@ -1,5 +1,5 @@
 ---
 title: "Optique Mosaïque"
 url: /ambazac/optique-mosaique/
-shop: Optiker
+shop: opticien
 ---

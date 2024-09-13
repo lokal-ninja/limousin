@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Patisserie"
 url: /la-souterraine/boulangerie-patisserie/
-shop: Bäckerei
+shop: boulangerie
 ---

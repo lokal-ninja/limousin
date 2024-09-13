@@ -1,5 +1,5 @@
 ---
 title: "Naturalia"
 url: /limoges/naturalia/
-shop: Supermarkt
+shop: supermarché
 ---

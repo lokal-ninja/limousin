@@ -1,5 +1,5 @@
 ---
 title: "Ferme de la Chèvre Bleue"
 url: /segonzac/ferme-de-la-chevre-bleue/
-shop: Landwirtschaftlich
+shop: agraire
 ---

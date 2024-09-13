@@ -1,5 +1,5 @@
 ---
 title: "Julien d'Orcel"
 url: /limoges/julien-dorcel/
-shop: Schmuck
+shop: bijoux
 ---

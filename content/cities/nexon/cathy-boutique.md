@@ -1,5 +1,5 @@
 ---
 title: "Cathy boutique"
 url: /nexon/cathy-boutique/
-shop: Schneiderei
+shop: tailleur
 ---

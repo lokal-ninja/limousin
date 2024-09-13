@@ -1,5 +1,5 @@
 ---
 title: "Bourjon"
 url: /gueret/bourjon/
-shop: Schmuck
+shop: bijoux
 ---

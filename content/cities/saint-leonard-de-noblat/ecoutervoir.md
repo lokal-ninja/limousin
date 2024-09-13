@@ -1,5 +1,5 @@
 ---
 title: "ÉcouterVoir"
 url: /saint-leonard-de-noblat/ecoutervoir/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

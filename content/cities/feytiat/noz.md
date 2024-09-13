@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /feytiat/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

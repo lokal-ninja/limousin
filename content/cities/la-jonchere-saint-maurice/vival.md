@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /la-jonchere-saint-maurice/vival/
-shop: Lebensmittel
+shop: commodité
 ---

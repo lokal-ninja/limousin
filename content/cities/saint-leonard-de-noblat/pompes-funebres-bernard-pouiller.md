@@ -1,5 +1,5 @@
 ---
 title: "Pompes Funèbres Bernard Pouiller"
 url: /saint-leonard-de-noblat/pompes-funebres-bernard-pouiller/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

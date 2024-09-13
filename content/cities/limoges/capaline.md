@@ -1,5 +1,5 @@
 ---
 title: "Capaline"
 url: /limoges/capaline/
-shop: Bäckerei
+shop: boulangerie
 ---

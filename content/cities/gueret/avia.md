@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /gueret/avia/
-shop: Lebensmittel
+shop: commodité
 ---

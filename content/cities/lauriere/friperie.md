@@ -1,5 +1,5 @@
 ---
 title: "Friperie"
 url: /lauriere/friperie/
-shop: Kleidung
+shop: vêtements
 ---

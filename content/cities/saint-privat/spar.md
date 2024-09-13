@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /saint-privat/spar/
-shop: Lebensmittel
+shop: commodité
 ---

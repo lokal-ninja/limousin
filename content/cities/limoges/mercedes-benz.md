@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz"
 url: /limoges/mercedes-benz/
-shop: Autohaus
+shop: voiture
 ---

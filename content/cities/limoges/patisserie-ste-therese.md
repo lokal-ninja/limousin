@@ -1,5 +1,5 @@
 ---
 title: "Pâtisserie Ste Thérèse"
 url: /limoges/patisserie-ste-therese/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /malemort-sur-correze/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

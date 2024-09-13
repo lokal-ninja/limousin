@@ -1,5 +1,5 @@
 ---
 title: "Le Salon"
 url: /limoges/le-salon/
-shop: Friseur
+shop: coiffeur
 ---

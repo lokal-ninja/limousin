@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Pâtisserie"
 url: /saint-privat/boulangerie-patisserie/
-shop: Bäckerei
+shop: boulangerie
 ---

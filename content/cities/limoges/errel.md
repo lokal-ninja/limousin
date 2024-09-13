@@ -1,5 +1,5 @@
 ---
 title: "Errel"
 url: /limoges/errel/
-shop: Tee
+shop: thé
 ---

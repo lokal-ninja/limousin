@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /tulle/intersport/
-shop: Sport
+shop: sports
 ---

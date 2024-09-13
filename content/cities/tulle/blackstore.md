@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /tulle/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

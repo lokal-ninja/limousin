@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Maumège"
 url: /les-cars/boulangerie-maumege/
-shop: Bäckerei
+shop: boulangerie
 ---

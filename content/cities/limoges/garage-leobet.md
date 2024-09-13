@@ -1,5 +1,5 @@
 ---
 title: "Garage Leobet"
 url: /limoges/garage-leobet/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

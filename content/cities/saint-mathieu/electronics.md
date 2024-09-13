@@ -1,5 +1,5 @@
 ---
 title: "Electronics"
 url: /saint-mathieu/electronics/
-shop: Elektronik
+shop: électronique
 ---

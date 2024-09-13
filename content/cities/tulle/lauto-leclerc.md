@@ -1,5 +1,5 @@
 ---
 title: "L'auto Leclerc"
 url: /tulle/lauto-leclerc/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

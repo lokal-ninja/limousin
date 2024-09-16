@@ -1,11 +1,11 @@
 id: 297619937
-type: way
+type: node
 latitude: 45.89708
 longitude: 1.27571
 postcode: "87280"
 city: Limoges
-street: "Rue Ettore Bugatti"
-housenumber: 43
+street: Rue Ettore Bugatti
+housenumber: "43"
 phone: "+33555041404"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://www.i-imprimatur.fr/"
+opening_hours: Mo-Fr 08:00-17:30
+website: https://www.i-imprimatur.fr/

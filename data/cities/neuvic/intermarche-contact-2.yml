@@ -1,11 +1,11 @@
 id: 80425087
-type: way
+type: node
 latitude: 45.37956
 longitude: 2.26801
 postcode: "19160"
 city: Neuvic
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

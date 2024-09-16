@@ -1,11 +1,11 @@
 id: 651833389
-type: way
+type: node
 latitude: 45.24208
 longitude: 1.74222
 postcode: "19000"
 city: Tulle
-street: "zone de mutalet"
-housenumber: 
+street: zone de mutalet
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

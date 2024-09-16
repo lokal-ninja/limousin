@@ -1,11 +1,11 @@
 id: 68202120
-type: way
+type: node
 latitude: 46.13518
 longitude: 1.27021
 postcode: "87290"
 city: Châteauponsac
-street: "Avenue de Lorraine"
-housenumber: 39
+street: Avenue de Lorraine
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

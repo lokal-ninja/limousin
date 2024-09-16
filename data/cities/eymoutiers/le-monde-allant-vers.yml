@@ -4,8 +4,8 @@ latitude: 45.73842
 longitude: 1.74375
 postcode: "87120"
 city: Eymoutiers
-street: "Avenue Maréchal Foch"
-housenumber: 2
+street: Avenue Maréchal Foch
+housenumber: "2"
 phone: ""
-opening_hours: "We,Fr 15:00-18:30; Th,Sa 09:30-12:30"
-website: "https://www.lemondeallantvers.org/"
+opening_hours: We,Fr 15:00-18:30; Th,Sa 09:30-12:30
+website: https://www.lemondeallantvers.org/

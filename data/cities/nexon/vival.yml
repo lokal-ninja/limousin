@@ -1,11 +1,11 @@
 id: 70972689
-type: way
+type: node
 latitude: 45.6801
 longitude: 1.18445
 postcode: "87800"
 city: Nexon
-street: "Rue Gambetta"
-housenumber: 30
-phone: "+33 5 55 58 35 32"
-opening_hours: "Mo-Sa 07:30-13:00, 15:00-19:30; Su 08:00-12:30"
-website: "https://magasins.vival.fr/fr/s/vival-nexon"
+street: Rue Gambetta
+housenumber: "30"
+phone: +33 5 55 58 35 32
+opening_hours: Mo-Sa 07:30-13:00, 15:00-19:30; Su 08:00-12:30
+website: https://magasins.vival.fr/fr/s/vival-nexon

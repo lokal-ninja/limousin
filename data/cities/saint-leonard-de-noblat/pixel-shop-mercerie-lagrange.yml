@@ -1,11 +1,11 @@
 id: 71042776
-type: way
+type: node
 latitude: 45.83814
 longitude: 1.49103
 postcode: "87400"
 city: Saint-Léonard-de-Noblat
-street: "Place Noblat"
-housenumber: 1
-phone: "+33 5 55 56 02 68"
-opening_hours: "Tu-Sa 09:00-12:00,14:30-18:30"
+street: Place Noblat
+housenumber: "1"
+phone: +33 5 55 56 02 68
+opening_hours: Tu-Sa 09:00-12:00,14:30-18:30
 website: ""

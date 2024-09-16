@@ -1,11 +1,11 @@
 id: 308373934
-type: way
+type: node
 latitude: 46.30124
 longitude: 2.30629
 postcode: "23600"
 city: Soumans
 street: ""
-housenumber: 22
-phone: "+33 9 72 53 01 65"
-opening_hours: "10:00-12:30,14:00-19:00"
-website: "http://www.atelier-info.net"
+housenumber: "22"
+phone: +33 9 72 53 01 65
+opening_hours: 10:00-12:30,14:00-19:00
+website: http://www.atelier-info.net

@@ -4,8 +4,8 @@ latitude: 45.70511
 longitude: 1.09006
 postcode: "87230"
 city: Flavignac
-street: "Rue Jean Moulin"
-housenumber: 11
-phone: "+33 5 44 19 16 49"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:30-14:00"
+street: Rue Jean Moulin
+housenumber: "11"
+phone: +33 5 44 19 16 49
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:30-14:00
 website: ""

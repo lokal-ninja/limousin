@@ -1,11 +1,11 @@
 id: 70229617
-type: way
+type: node
 latitude: 45.84231
 longitude: 1.23743
 postcode: "87100"
 city: Limoges
-street: "Rue François Arago"
-housenumber: 32
+street: Rue François Arago
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

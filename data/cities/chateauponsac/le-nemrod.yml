@@ -1,11 +1,11 @@
 id: 362260121
-type: way
+type: node
 latitude: 46.13372
 longitude: 1.27665
 postcode: "87290"
 city: Châteauponsac
-street: "Place Xavier Mazurier"
-housenumber: 21
+street: Place Xavier Mazurier
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

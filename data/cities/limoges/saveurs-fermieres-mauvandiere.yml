@@ -4,8 +4,8 @@ latitude: 45.8332
 longitude: 1.24865
 postcode: "87100"
 city: Limoges
-street: "Rue de la Mauvendière"
-housenumber: 38
-phone: "+33 5 55 55 88 63"
-opening_hours: "Tu-Fr 09:00-12:30,16:00-19:00; Sa 09:00-13:00"
-website: "https://www.saveurs-fermieres.fr/"
+street: Rue de la Mauvendière
+housenumber: "38"
+phone: +33 5 55 55 88 63
+opening_hours: Tu-Fr 09:00-12:30,16:00-19:00; Sa 09:00-13:00
+website: https://www.saveurs-fermieres.fr/

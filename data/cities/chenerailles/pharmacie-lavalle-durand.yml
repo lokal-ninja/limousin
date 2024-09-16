@@ -1,11 +1,11 @@
 id: 292280205
-type: way
+type: node
 latitude: 46.11308
 longitude: 2.17568
 postcode: "23130"
 city: Chénérailles
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

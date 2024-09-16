@@ -4,8 +4,8 @@ latitude: 45.84181
 longitude: 1.24274
 postcode: "87100"
 city: Limoges
-street: "Rue des Palmiers"
-housenumber: 11
-phone: "+33 5 55 77 45 77"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
+street: Rue des Palmiers
+housenumber: "11"
+phone: +33 5 55 77 45 77
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
 website: ""

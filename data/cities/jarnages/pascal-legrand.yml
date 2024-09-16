@@ -1,11 +1,11 @@
 id: 790817206
-type: way
+type: node
 latitude: 46.1804
 longitude: 2.08529
 postcode: "23140"
 city: Jarnages
-street: "Grande Rue"
-housenumber: 50
+street: Grande Rue
+housenumber: "50"
 phone: "+33555809016"
-opening_hours: "Mo-Sa 09:00-12:00, Mo-Fr 14:00-19:00"
+opening_hours: Mo-Sa 09:00-12:00, Mo-Fr 14:00-19:00
 website: ""

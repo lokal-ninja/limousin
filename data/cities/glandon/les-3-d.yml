@@ -1,11 +1,11 @@
 id: 61672087
-type: way
+type: node
 latitude: 45.49528
 longitude: 1.21406
 postcode: "87500"
 city: Glandon
-street: "Route de Brive"
-housenumber: 
+street: Route de Brive
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

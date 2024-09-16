@@ -1,11 +1,11 @@
 id: 67676200
-type: way
+type: node
 latitude: 46.2792
 longitude: 1.51076
 postcode: "23300"
 city: Saint-Agnant-de-Versillat
-street: "Rue Eugène Pesas"
-housenumber: 6
-phone: "+33 5 87 57 40 60"
-opening_hours: "Mo-Sa 08:00-12:30,15:30-07:30, Su 08:00-12:30"
-website: "https://magasins.vival.fr/fr/vival-saint-agnant-de-versilla"
+street: Rue Eugène Pesas
+housenumber: "6"
+phone: +33 5 87 57 40 60
+opening_hours: Mo-Sa 08:00-12:30,15:30-07:30, Su 08:00-12:30
+website: https://magasins.vival.fr/fr/vival-saint-agnant-de-versilla

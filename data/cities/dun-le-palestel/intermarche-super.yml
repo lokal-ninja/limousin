@@ -1,11 +1,11 @@
 id: 67693290
-type: way
+type: node
 latitude: 46.30231
 longitude: 1.67496
 postcode: "23800"
 city: Dun-le-Palestel
-street: "Avenue d'Auvergne"
-housenumber: 7
+street: Avenue d'Auvergne
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

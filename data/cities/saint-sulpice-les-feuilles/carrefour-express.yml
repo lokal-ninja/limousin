@@ -1,11 +1,11 @@
 id: 183642903
-type: way
+type: node
 latitude: 46.31627
 longitude: 1.369
 postcode: "87160"
 city: Saint-Sulpice-les-Feuilles
-street: "Rue du Commerce"
-housenumber: 22
-phone: "+33 5 55 76 75 65"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-saint-sulpice-les-feuilles"
+street: Rue du Commerce
+housenumber: "22"
+phone: +33 5 55 76 75 65
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-saint-sulpice-les-feuilles

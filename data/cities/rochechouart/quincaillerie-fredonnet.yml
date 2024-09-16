@@ -1,11 +1,11 @@
 id: 307549817
-type: way
+type: node
 latitude: 45.8328
 longitude: 0.83637
 postcode: "87600"
 city: Rochechouart
-street: "Rue du Stade"
-housenumber: 10
-phone: "+335 55 33 23 25"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:30, Sa 08:00-12:00,13:30-18:00"
-website: "https://www.quincaillerie-fredonnet.fr/"
+street: Rue du Stade
+housenumber: "10"
+phone: +335 55 33 23 25
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:30, Sa 08:00-12:00,13:30-18:00
+website: https://www.quincaillerie-fredonnet.fr/

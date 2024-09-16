@@ -1,11 +1,11 @@
 id: 71086260
-type: way
+type: node
 latitude: 45.82934
 longitude: 1.29714
 postcode: "87350"
 city: Panazol
-street: "Avenue du Président Sadi Carnot"
-housenumber: 5
-phone: "+33 5 55 31 95 08"
-opening_hours: "24/7"
-website: "http://www.stations-elan.fr"
+street: Avenue du Président Sadi Carnot
+housenumber: "5"
+phone: +33 5 55 31 95 08
+opening_hours: 24/7
+website: http://www.stations-elan.fr

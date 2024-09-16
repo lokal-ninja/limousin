@@ -4,8 +4,8 @@ latitude: 45.68046
 longitude: 1.07234
 postcode: "87230"
 city: Les Cars
-street: "Rue de l'Artillerie"
-housenumber: 2
-phone: "+33 5 55 36 90 85"
-opening_hours: "Tu-Sa 07:30-12:30,16:00-19:00; Su 07:30-12:30"
+street: Rue de l'Artillerie
+housenumber: "2"
+phone: +33 5 55 36 90 85
+opening_hours: Tu-Sa 07:30-12:30,16:00-19:00; Su 07:30-12:30
 website: ""

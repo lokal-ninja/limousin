@@ -1,11 +1,11 @@
 id: 1118576752
-type: way
+type: node
 latitude: 45.53656
 longitude: 2.14617
 postcode: "19250"
 city: Meymac
-street: "Grand Rue"
-housenumber: 22
+street: Grand Rue
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

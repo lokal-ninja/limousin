@@ -4,8 +4,8 @@ latitude: 45.8095
 longitude: 1.25691
 postcode: "87000"
 city: Limoges
-street: "impasse de la pelisserie"
-housenumber: 1
-phone: "+33 5 67 80 26 86"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.idealmicro.com/"
+street: impasse de la pelisserie
+housenumber: "1"
+phone: +33 5 67 80 26 86
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.idealmicro.com/

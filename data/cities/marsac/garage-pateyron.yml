@@ -1,11 +1,11 @@
 id: 201538525
-type: way
+type: node
 latitude: 46.09483
 longitude: 1.58527
 postcode: "23210"
 city: Marsac
 street: ""
-housenumber: 9
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 362260119
-type: way
+type: node
 latitude: 46.13494
 longitude: 1.27666
 postcode: "87290"
 city: Châteauponsac
-street: "Avenue du 8 Mai 1945"
-housenumber: 18
+street: Avenue du 8 Mai 1945
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

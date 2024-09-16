@@ -1,11 +1,11 @@
 id: 623916860
-type: way
+type: node
 latitude: 46.09629
 longitude: 1.58763
 postcode: "23210"
 city: Marsac
 street: ""
-housenumber: 37
-phone: "+33 5 44 30 15 80"
-opening_hours: "Mo 08:30-12:30; Tu-Sa 08:30-12:30,15:30-19:00; Su 09:00-12:00"
-website: "https://magasins.vival.fr/fr/vival-marsac"
+housenumber: "37"
+phone: +33 5 44 30 15 80
+opening_hours: Mo 08:30-12:30; Tu-Sa 08:30-12:30,15:30-19:00; Su 09:00-12:00
+website: https://magasins.vival.fr/fr/vival-marsac

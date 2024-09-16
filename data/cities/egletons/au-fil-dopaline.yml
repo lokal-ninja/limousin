@@ -1,11 +1,11 @@
 id: 78187643
-type: way
+type: node
 latitude: 45.40579
 longitude: 2.0474
 postcode: "19300"
 city: Egletons
-street: "Avenue Charles de Gaulle"
-housenumber: 35
+street: Avenue Charles de Gaulle
+housenumber: "35"
 phone: "+33634605064"
 opening_hours: ""
-website: "https://www.au-fil-d-opaline.fr/"
+website: https://www.au-fil-d-opaline.fr/

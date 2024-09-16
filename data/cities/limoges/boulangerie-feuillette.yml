@@ -1,11 +1,11 @@
 id: 70570654
-type: way
+type: node
 latitude: 45.8521
 longitude: 1.25381
 postcode: "87100"
 city: Limoges
-street: "Rue des Tuilières"
-housenumber: 141
-phone: "+33 5 55 57 30 99"
-opening_hours: "Mo-Su 06:00-21:00"
+street: Rue des Tuilières
+housenumber: "141"
+phone: +33 5 55 57 30 99
+opening_hours: Mo-Su 06:00-21:00
 website: ""

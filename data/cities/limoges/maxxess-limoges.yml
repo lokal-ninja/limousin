@@ -4,8 +4,9 @@ latitude: 45.88997
 longitude: 1.27702
 postcode: "87280"
 city: Limoges
-street: "Rue Pierre de Fermat"
-housenumber: 9
-phone: "+33 5 55339998"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:00,14:00-19:00; Su,PH off"
-website: "http://limoges.maxxess.fr"
+street: Rue Pierre de Fermat
+housenumber: "9"
+phone: +33 5 55339998
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:00,14:00-19:00;
+    Su,PH off
+website: http://limoges.maxxess.fr

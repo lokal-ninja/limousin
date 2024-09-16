@@ -1,11 +1,11 @@
 id: 70183966
-type: way
+type: node
 latitude: 45.86772
 longitude: 1.26715
 postcode: "87280"
 city: Limoges
-street: "Avenue Louis Armand"
-housenumber: 79
-phone: "+33 5 55 04 48 48"
+street: Avenue Louis Armand
+housenumber: "79"
+phone: +33 5 55 04 48 48
 opening_hours: ""
 website: ""

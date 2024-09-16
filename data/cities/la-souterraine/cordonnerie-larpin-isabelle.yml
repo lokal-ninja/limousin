@@ -4,8 +4,9 @@ latitude: 46.23673
 longitude: 1.48596
 postcode: "23300"
 city: La Souterraine
-street: "Rue Saint-Jacques"
-housenumber: 15
+street: Rue Saint-Jacques
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-We 09:00-12:00, 14:00-18:00; Th 15:00-18:00; Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00"
+opening_hours: Tu-We 09:00-12:00, 14:00-18:00; Th 15:00-18:00; Fr 09:00-12:00, 14:00-18:00;
+    Sa 09:00-12:00
 website: ""

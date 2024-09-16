@@ -1,11 +1,11 @@
 id: 68202554
-type: way
+type: node
 latitude: 46.1324
 longitude: 1.27683
 postcode: "87290"
 city: Châteauponsac
-street: "Place de la République"
-housenumber: 3
-phone: "+33 5 55 76 50 95"
+street: Place de la République
+housenumber: "3"
+phone: +33 5 55 76 50 95
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1155122443
-type: way
+type: node
 latitude: 46.13355
 longitude: 1.29386
 postcode: "87290"
 city: Châteauponsac
-street: "Route de Bessines"
-housenumber: 
+street: Route de Bessines
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

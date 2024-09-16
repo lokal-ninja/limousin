@@ -4,8 +4,8 @@ latitude: 45.40067
 longitude: 2.4976
 postcode: "19110"
 city: Bort-les-Orgues
-street: "Rue de Paris"
-housenumber: 61
+street: Rue de Paris
+housenumber: "61"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:15, 14:15-18:30; Sa 09:00-12:15, 14:15-18:00"
-website: "https://b-cheminade.fr"
+opening_hours: Tu-Fr 09:30-12:15, 14:15-18:30; Sa 09:00-12:15, 14:15-18:00
+website: https://b-cheminade.fr

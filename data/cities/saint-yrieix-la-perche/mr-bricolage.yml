@@ -1,11 +1,11 @@
 id: 70916597
-type: way
+type: node
 latitude: 45.50833
 longitude: 1.20724
 postcode: "87500"
 city: Saint-Yrieix-la-Perche
-street: "Boulevard Marcel Roux"
-housenumber: 24
+street: Boulevard Marcel Roux
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

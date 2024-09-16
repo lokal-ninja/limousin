@@ -4,8 +4,8 @@ latitude: 45.83836
 longitude: 1.49099
 postcode: "87400"
 city: Saint-Léonard-de-Noblat
-street: "Place Noblat"
-housenumber: 4
-phone: "+33 5 55 39 47 59"
-opening_hours: "Tu-Sa 09:00-12:30,14:30-19:00; Su 09:30-12:00"
+street: Place Noblat
+housenumber: "4"
+phone: +33 5 55 39 47 59
+opening_hours: Tu-Sa 09:00-12:30,14:30-19:00; Su 09:30-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 70100962
-type: way
+type: node
 latitude: 45.83622
 longitude: 1.21364
 postcode: "87000"
 city: Limoges
-street: "Rue Jean de la Vienne"
-housenumber: 135
+street: Rue Jean de la Vienne
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 876137928
-type: way
+type: node
 latitude: 45.8403
 longitude: 1.25807
 postcode: "87100"
 city: Limoges
-street: "Place Sadi Carnot"
-housenumber: 10
+street: Place Sadi Carnot
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

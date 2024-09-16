@@ -1,11 +1,11 @@
 id: 60124386
-type: way
+type: node
 latitude: 45.42632
 longitude: 1.56718
 postcode: "19140"
 city: Uzerche
-street: "Rue du Pont Turgot"
-housenumber: 2
+street: Rue du Pont Turgot
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

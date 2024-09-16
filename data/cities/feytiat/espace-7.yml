@@ -4,8 +4,8 @@ latitude: 45.79194
 longitude: 1.30375
 postcode: "87220"
 city: Feytiat
-street: "Route de Boisseuil"
-housenumber: 39
-phone: "+33 555318787"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00; Su,Mo,PH off"
-website: "http://www.hondamoto-limoges.com"
+street: Route de Boisseuil
+housenumber: "39"
+phone: +33 555318787
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00; Su,Mo,PH off
+website: http://www.hondamoto-limoges.com

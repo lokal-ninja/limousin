@@ -4,8 +4,9 @@ latitude: 45.751
 longitude: 1.43088
 postcode: "87260"
 city: Saint-Paul
-street: "Avenue de Limoges, 87260 Saint-Paul"
-housenumber: 
-phone: "+33 5 55 08 69 62"
-opening_hours: "Mo-Tu 07:30-12:30,15:00-19:00; We 07:30-12:30; Th-Sa 07:30-12:30,15:00-19:00; Su 08:30-12:00"
-website: "https://magasins.spar.fr/fr/s/spar-saint-paul"
+street: Avenue de Limoges, 87260 Saint-Paul
+housenumber: ""
+phone: +33 5 55 08 69 62
+opening_hours: Mo-Tu 07:30-12:30,15:00-19:00; We 07:30-12:30; Th-Sa 07:30-12:30,15:00-19:00;
+    Su 08:30-12:00
+website: https://magasins.spar.fr/fr/s/spar-saint-paul

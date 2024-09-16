@@ -1,11 +1,11 @@
 id: 64246252
-type: way
+type: node
 latitude: 45.25186
 longitude: 1.76259
 postcode: "19000"
 city: Tulle
 street: ""
-housenumber: 
-phone: "+335 55 20 51 00"
-opening_hours: "Mo-Th 08:30-20:00; Fr 08:30-20:30; Sa 08:30-20:00"
+housenumber: ""
+phone: +335 55 20 51 00
+opening_hours: Mo-Th 08:30-20:00; Fr 08:30-20:30; Sa 08:30-20:00
 website: ""

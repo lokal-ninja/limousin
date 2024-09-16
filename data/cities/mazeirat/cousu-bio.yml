@@ -5,7 +5,7 @@ longitude: 1.97993
 postcode: "23150"
 city: Mazeirat
 street: ""
-housenumber: 7
+housenumber: "7"
 phone: ""
-opening_hours: "by appointment"
-website: "https://www.cousubio.com/"
+opening_hours: '"by appointment"'
+website: https://www.cousubio.com/

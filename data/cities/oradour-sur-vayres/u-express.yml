@@ -1,11 +1,11 @@
 id: 361150699
-type: way
+type: node
 latitude: 45.73307
 longitude: 0.86931
 postcode: "87150"
 city: Oradour sur Vayres
-street: "Rue Jean Segurel"
-housenumber: 1
-phone: "+33 5 55 48 83 75"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.magasins-u.com/magasin/uexpress-oradoursurvayres.m38020"
+street: Rue Jean Segurel
+housenumber: "1"
+phone: +33 5 55 48 83 75
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.magasins-u.com/magasin/uexpress-oradoursurvayres.m38020

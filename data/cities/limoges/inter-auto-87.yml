@@ -4,8 +4,8 @@ latitude: 45.81857
 longitude: 1.29028
 postcode: "87000"
 city: Limoges
-street: "Rue Amédée Bollée"
-housenumber: 2
+street: Rue Amédée Bollée
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00"
-website: "https://www.inter-auto-87.fr/"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00
+website: https://www.inter-auto-87.fr/

@@ -1,11 +1,11 @@
 id: 145714980
-type: way
+type: node
 latitude: 45.8948
 longitude: 0.9205
 postcode: "87200"
 city: Saint-Junien
-street: "Avenue Nelson Mandela"
-housenumber: 
-phone: "+33 5 55 43 00 10"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:30,14:00-19:00"
-website: "https://magasin.mr-bricolage.fr/206-mr-bricolage-saint-junien"
+street: Avenue Nelson Mandela
+housenumber: ""
+phone: +33 5 55 43 00 10
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:30,14:00-19:00
+website: https://magasin.mr-bricolage.fr/206-mr-bricolage-saint-junien

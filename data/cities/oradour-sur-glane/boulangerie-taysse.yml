@@ -1,11 +1,11 @@
 id: 1047848817
-type: way
+type: node
 latitude: 45.93365
 longitude: 1.03013
 postcode: "87520"
 city: Oradour-sur-Glane
-street: "Rue Pralon"
-housenumber: 5
+street: Rue Pralon
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

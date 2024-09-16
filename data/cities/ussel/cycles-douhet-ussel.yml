@@ -1,11 +1,11 @@
 id: 1120515362
-type: way
+type: node
 latitude: 45.54479
 longitude: 2.30242
 postcode: "19200"
 city: Ussel
-street: "Avenue Turgot"
-housenumber: 
+street: Avenue Turgot
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

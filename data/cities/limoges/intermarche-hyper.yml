@@ -1,11 +1,11 @@
 id: 70114494
-type: way
+type: node
 latitude: 45.81387
 longitude: 1.26861
 postcode: "87100"
 city: Limoges
-street: "Rue Bernart de Ventadourd"
-housenumber: 
+street: Rue Bernart de Ventadourd
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

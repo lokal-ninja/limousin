@@ -1,11 +1,11 @@
 id: 70213079
-type: way
+type: node
 latitude: 45.87923
 longitude: 1.2932
 postcode: "87280"
 city: Limoges
-street: "Place de Beaubreuil"
-housenumber: 1
-phone: "+33 5 55 35 10 20"
-opening_hours: "Mo-Sa 08:30-20:30; Su 09:00-12:30"
-website: "https://www.cora.fr/limoges/"
+street: Place de Beaubreuil
+housenumber: "1"
+phone: +33 5 55 35 10 20
+opening_hours: Mo-Sa 08:30-20:30; Su 09:00-12:30
+website: https://www.cora.fr/limoges/

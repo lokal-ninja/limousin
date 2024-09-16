@@ -4,8 +4,8 @@ latitude: 45.83243
 longitude: 1.23252
 postcode: "87000"
 city: Limoges
-street: "Rue Armand Dutreix"
-housenumber: 190
+street: Rue Armand Dutreix
+housenumber: "190"
 phone: ""
-opening_hours: "Mo-Su,PH 00:00-19:00"
+opening_hours: Mo-Su,PH 00:00-19:00
 website: ""

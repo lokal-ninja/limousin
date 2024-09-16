@@ -1,11 +1,11 @@
 id: 300065703
-type: way
+type: node
 latitude: 45.83399
 longitude: 0.83122
 postcode: "87600"
 city: Rochechouart
-street: "Rue de la Fabrique"
-housenumber: 
+street: Rue de la Fabrique
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

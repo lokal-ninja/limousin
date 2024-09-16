@@ -1,11 +1,11 @@
 id: 70990225
-type: way
+type: node
 latitude: 45.80257
 longitude: 1.29443
 postcode: "87220"
 city: Feytiat
-street: "Rue Georges Guynemer"
-housenumber: 3
+street: Rue Georges Guynemer
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/feytiat/"
+website: https://www.nozarrivages.com/magasin/feytiat/

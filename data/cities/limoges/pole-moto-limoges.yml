@@ -1,11 +1,11 @@
 id: 181311449
-type: way
+type: node
 latitude: 45.89006
 longitude: 1.27668
 postcode: "87280"
 city: Limoges
-street: "Rue Pierre de Fermat"
-housenumber: 9
+street: Rue Pierre de Fermat
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://polemotolimoges.fr/"
+website: https://polemotolimoges.fr/

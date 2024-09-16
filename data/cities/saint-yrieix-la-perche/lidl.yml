@@ -1,11 +1,11 @@
 id: 468184794
-type: way
+type: node
 latitude: 45.52108
 longitude: 1.20861
 postcode: "87500"
 city: Saint-Yrieix-la-Perche
-street: "Avenue Général Charles de Gaulle"
-housenumber: 
+street: Avenue Général Charles de Gaulle
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

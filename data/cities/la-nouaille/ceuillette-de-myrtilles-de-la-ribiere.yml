@@ -1,11 +1,11 @@
 id: 1305372847
-type: way
+type: node
 latitude: 45.84377
 longitude: 2.04028
 postcode: "23500"
 city: La Nouaille
-street: "La Ribière"
-housenumber: 
+street: La Ribière
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 790757450
-type: way
+type: node
 latitude: 46.18144
 longitude: 2.08439
 postcode: "23140"
 city: Jarnages
-street: "Grande Rue"
-housenumber: 26
+street: Grande Rue
+housenumber: "26"
 phone: ""
-opening_hours: "Tu 08:15-12:15, Th 08:15-12:15, Su 08:30-12:30"
-website: "https://atelier-du-viand-art.fr/"
+opening_hours: Tu 08:15-12:15, Th 08:15-12:15, Su 08:30-12:30
+website: https://atelier-du-viand-art.fr/

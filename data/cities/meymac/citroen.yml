@@ -1,11 +1,11 @@
 id: 77674759
-type: way
+type: node
 latitude: 45.533
 longitude: 2.1488
 postcode: "19250"
 city: Meymac
-street: "Boulevard du Pré Soubise"
-housenumber: 5
+street: Boulevard du Pré Soubise
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

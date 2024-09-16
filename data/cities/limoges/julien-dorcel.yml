@@ -4,8 +4,8 @@ latitude: 45.83002
 longitude: 1.25737
 postcode: "87000"
 city: Limoges
-street: "Place Saint-Michel"
-housenumber: 3
+street: Place Saint-Michel
+housenumber: "3"
 phone: ""
-opening_hours: "Mo 14:30-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.juliendorcel.com/bijouterie/limoges-1058M"
+opening_hours: Mo 14:30-19:00; Tu-Sa 10:00-19:00
+website: https://www.juliendorcel.com/bijouterie/limoges-1058M

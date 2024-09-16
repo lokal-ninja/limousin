@@ -4,8 +4,8 @@ latitude: 46.12067
 longitude: 1.04863
 postcode: "87300"
 city: Bellac
-street: "Rue du Coq"
-housenumber: 28
-phone: "+33 5 55 68 10 52"
-opening_hours: "Mo-Fr 09:15-12:15,15:00-19:15; Sa 09:15-12:30"
+street: Rue du Coq
+housenumber: "28"
+phone: +33 5 55 68 10 52
+opening_hours: Mo-Fr 09:15-12:15,15:00-19:15; Sa 09:15-12:30
 website: ""

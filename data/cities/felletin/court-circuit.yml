@@ -5,7 +5,8 @@ longitude: 2.17469
 postcode: "23500"
 city: Felletin
 street: ""
-housenumber: 47
-phone: "+33 5 55 66 24 11"
-opening_hours: "May-Sep We 15:00-19:00; May-Sep Fr 09:30-13:00,15:00-19:00; May-Sep Sa 15:00-18:00; Oct-Apr We 15:00-18:00; Oct-Apr Fr 09:30-13:00,15:00-18:00"
-website: "http://www.court-circuit-felletin.org/"
+housenumber: "47"
+phone: +33 5 55 66 24 11
+opening_hours: May-Sep We 15:00-19:00; May-Sep Fr 09:30-13:00,15:00-19:00; May-Sep
+    Sa 15:00-18:00; Oct-Apr We 15:00-18:00; Oct-Apr Fr 09:30-13:00,15:00-18:00
+website: http://www.court-circuit-felletin.org/

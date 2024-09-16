@@ -1,11 +1,11 @@
 id: 791690370
-type: way
+type: node
 latitude: 46.1814
 longitude: 2.08509
 postcode: "23140"
 city: Jarnages
-street: "Rue Saint-Gervais"
-housenumber: 1
-phone: "+33 5 44 30 19 63"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-12:00"
+street: Rue Saint-Gervais
+housenumber: "1"
+phone: +33 5 44 30 19 63
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-12:00
 website: ""

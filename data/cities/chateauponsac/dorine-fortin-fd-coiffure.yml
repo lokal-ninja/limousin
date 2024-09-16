@@ -4,8 +4,8 @@ latitude: 46.13534
 longitude: 1.27647
 postcode: "87290"
 city: Châteauponsac
-street: "Avenue du 8 Mai 1945"
-housenumber: 5
+street: Avenue du 8 Mai 1945
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00,13:30-19:00; Sa 08:00-12:00,13:30-16:00"
-website: "https://fdcoiffure.com"
+opening_hours: Tu-Fr 09:00-12:00,13:30-19:00; Sa 08:00-12:00,13:30-16:00
+website: https://fdcoiffure.com

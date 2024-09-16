@@ -1,11 +1,11 @@
 id: 67692330
-type: way
+type: node
 latitude: 46.30514
 longitude: 1.66454
 postcode: "23800"
 city: Dun-le-Palestel
 street: ""
-housenumber: 73
-phone: "+33 555896824"
-opening_hours: "Mo,Tu,Th-Sa 06:30-13:00,15:00-19:00; Su 06:30-12:30"
-website: "https://www.boulangerie-patisserie-23.fr/accueil"
+housenumber: "73"
+phone: +33 555896824
+opening_hours: Mo,Tu,Th-Sa 06:30-13:00,15:00-19:00; Su 06:30-12:30
+website: https://www.boulangerie-patisserie-23.fr/accueil

@@ -1,11 +1,12 @@
 id: 790749738
-type: way
+type: node
 latitude: 46.18152
 longitude: 2.08496
 postcode: "23140"
 city: Jarnages
-street: "Place de l'Église"
-housenumber: 
-phone: "+33 5 55 61 02 35"
-opening_hours: "Mo-Tu 07:30-12:45; Th-Sa 07:30-12:45; Mo-Tu 15:00-19:30; Th-Sa 15:00-19:30; Su 08:00-12:45"
+street: Place de l'Église
+housenumber: ""
+phone: +33 5 55 61 02 35
+opening_hours: Mo-Tu 07:30-12:45; Th-Sa 07:30-12:45; Mo-Tu 15:00-19:30; Th-Sa 15:00-19:30;
+    Su 08:00-12:45
 website: ""

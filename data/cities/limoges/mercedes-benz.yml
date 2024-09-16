@@ -1,11 +1,11 @@
 id: 70183214
-type: way
+type: node
 latitude: 45.8684
 longitude: 1.26976
 postcode: "87280"
 city: Limoges
-street: "Avenue Louis Armand"
-housenumber: 32
-phone: "+33 5 55 38 16 17"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-18:00"
-website: "https://www.lg-automobiles.mercedes-benz.fr"
+street: Avenue Louis Armand
+housenumber: "32"
+phone: +33 5 55 38 16 17
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-18:00
+website: https://www.lg-automobiles.mercedes-benz.fr

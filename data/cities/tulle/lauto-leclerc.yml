@@ -1,11 +1,11 @@
 id: 64247599
-type: way
+type: node
 latitude: 45.25538
 longitude: 1.75846
 postcode: "19000"
 city: Tulle
-street: "Rue du Docteur Ramon"
-housenumber: 14
-phone: "+335 55 20 35 74"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
+street: Rue du Docteur Ramon
+housenumber: "14"
+phone: +335 55 20 35 74
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
 website: ""

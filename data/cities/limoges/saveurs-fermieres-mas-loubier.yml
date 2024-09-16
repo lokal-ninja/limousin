@@ -4,8 +4,8 @@ latitude: 45.84569
 longitude: 1.25763
 postcode: "87100"
 city: Limoges
-street: "Rue de la Céramique"
-housenumber: 10
-phone: "+33 5 55 79 88 51"
-opening_hours: "Tu-Th 09:00-12:30,14:30-19:00; Fr 09:00-19:00; Sa 08:30-13:00"
-website: "https://www.saveurs-fermieres.fr/"
+street: Rue de la Céramique
+housenumber: "10"
+phone: +33 5 55 79 88 51
+opening_hours: Tu-Th 09:00-12:30,14:30-19:00; Fr 09:00-19:00; Sa 08:30-13:00
+website: https://www.saveurs-fermieres.fr/

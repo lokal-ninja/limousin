@@ -1,11 +1,11 @@
 id: 77675605
-type: way
+type: node
 latitude: 45.5355
 longitude: 2.14738
 postcode: "19250"
 city: Meymac
-street: "Place de l'Église"
-housenumber: 3
+street: Place de l'Église
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

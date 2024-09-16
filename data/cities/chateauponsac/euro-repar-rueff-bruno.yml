@@ -1,11 +1,11 @@
 id: 68203165
-type: way
+type: node
 latitude: 46.1368
 longitude: 1.28023
 postcode: "87290"
 city: Châteauponsac
-street: "Rue de l'Industrie"
-housenumber: 14
+street: Rue de l'Industrie
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

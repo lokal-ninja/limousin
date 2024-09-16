@@ -1,11 +1,11 @@
 id: 77676544
-type: way
+type: node
 latitude: 45.53533
 longitude: 2.14655
 postcode: "19250"
 city: Meymac
-street: "Avenue Limousine"
-housenumber: 39
+street: Avenue Limousine
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

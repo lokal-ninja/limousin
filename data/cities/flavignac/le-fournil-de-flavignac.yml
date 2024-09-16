@@ -1,11 +1,11 @@
 id: 623540463
-type: way
+type: node
 latitude: 45.70337
 longitude: 1.0925
 postcode: "87230"
 city: Flavignac
-street: "Place du Général de Gaulle"
-housenumber: 57
+street: Place du Général de Gaulle
+housenumber: "57"
 phone: "0983881336"
-opening_hours: "Mo,Tu,Th,Fr,Sa 07:00-13:30,16:00-19:30; su 07:00-13:00"
+opening_hours: Mo,Tu,Th,Fr,Sa 07:00-13:30,16:00-19:30; su 07:00-13:00
 website: ""

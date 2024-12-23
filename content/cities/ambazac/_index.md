@@ -1,6 +1,6 @@
 ---
 title: Ambazac
 url: /ambazac/
-latitude: 45.958
-longitude: 1.401
+latitude: 45.957
+longitude: 1.399
 ---

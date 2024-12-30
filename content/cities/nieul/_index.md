@@ -1,6 +1,6 @@
 ---
 title: Nieul
 url: /nieul/
-latitude: 45.924
-longitude: 1.171
+latitude: 45.921
+longitude: 1.17
 ---

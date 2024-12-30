@@ -1,6 +1,6 @@
 ---
 title: Nantiat
 url: /nantiat/
-latitude: 46.011
-longitude: 1.177
+latitude: 46.007
+longitude: 1.168
 ---

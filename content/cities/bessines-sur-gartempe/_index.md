@@ -1,6 +1,6 @@
 ---
 title: Bessines-sur-Gartempe
 url: /bessines-sur-gartempe/
-latitude: 46.109
-longitude: 1.368
+latitude: 46.132
+longitude: 1.371
 ---

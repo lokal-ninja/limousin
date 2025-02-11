@@ -1,6 +1,6 @@
 ---
 title: Masseret
 url: /masseret/
-latitude: 45.542
-longitude: 1.519
+latitude: 45.54
+longitude: 1.52
 ---

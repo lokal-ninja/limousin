@@ -1,5 +1,5 @@
 ---
 title: "Au dessert Limousin"
 url: /chateauponsac/au-dessert-limousin/
-shop: pâtisserie
+shop: boulangerie
 ---

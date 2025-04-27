@@ -1,6 +1,6 @@
 ---
 title: Tulle
 url: /tulle/
-latitude: 45.263
-longitude: 1.764
+latitude: 45.26
+longitude: 1.756
 ---

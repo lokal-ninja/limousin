@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
-url: /saint-priest-taurion/proxi/
+url: /la-croisille-sur-briance/proxi/
 shop: commodité
 ---

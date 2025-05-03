@@ -1,6 +1,6 @@
 ---
 title: Aixe-sur-Vienne
 url: /aixe-sur-vienne/
-latitude: 45.797
-longitude: 1.141
+latitude: 45.796
+longitude: 1.137
 ---

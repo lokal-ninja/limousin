@@ -1,6 +1,6 @@
 ---
 title: Châlus
 url: /chalus/
-latitude: 45.655
-longitude: 0.977
+latitude: 45.654
+longitude: 0.978
 ---

@@ -1,6 +1,6 @@
 ---
 title: Feytiat
 url: /feytiat/
-latitude: 45.803
-longitude: 1.296
+latitude: 45.816
+longitude: 1.311
 ---

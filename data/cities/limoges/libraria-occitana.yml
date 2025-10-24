@@ -7,5 +7,6 @@ city: Limoges
 street: Rue Haute-Vienne
 housenumber: "42"
 phone: ""
-opening_hours: Tu,Th 15:00-19:00; We-Fr 10:00-13:00,15:00-19:00; Sa 10:00-13:00,15:00-18:00
+opening_hours: Tu 15:00-19:00; We, Fr 10:00-13:00, 15:00-19:00; Sa 10:00-13:00, 15:00-18:00;
+    Th 15:00-19:00
 website: ""

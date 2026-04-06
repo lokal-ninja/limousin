@@ -1,6 +1,6 @@
 ---
 title: Felletin
 url: /felletin/
-latitude: 45.882
-longitude: 2.175
+latitude: 45.883
+longitude: 2.174
 ---

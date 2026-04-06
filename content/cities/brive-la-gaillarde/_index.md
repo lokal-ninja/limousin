@@ -1,6 +1,6 @@
 ---
 title: Brive-la-Gaillarde
 url: /brive-la-gaillarde/
-latitude: 45.145
-longitude: 1.484
+latitude: 45.16
+longitude: 1.535
 ---

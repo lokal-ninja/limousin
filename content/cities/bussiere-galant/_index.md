@@ -1,6 +1,6 @@
 ---
 title: Bussière-Galant
 url: /bussiere-galant/
-latitude: 45.627
-longitude: 1.036
+latitude: 45.608
+longitude: 1.028
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vayres
 url: /vayres/
-latitude: 45.751
-longitude: 0.796
+latitude: 45.758
+longitude: 0.813
 ---

@@ -7,6 +7,6 @@ city: Sainte-Feyre
 street: Route des Lavoirs
 housenumber: "5"
 phone: 09 51 07 77 10
-opening_hours: 'Mo,Sa 9:30-13:00, "Sur rendez-vous"; Tu 9:30-17:00; We 9:30-13:00;
-    Th-Fr 9:30-19:30; '
+opening_hours: Mo,Sa 09:30-13:00, "Sur rendez-vous"; Tu 09:30-17:00; We 09:30-13:00;
+    Th-Fr 09:30-19:30
 website: https://www.bulledair23.fr/

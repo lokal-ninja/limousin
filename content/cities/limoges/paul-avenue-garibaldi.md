@@ -1,5 +1,5 @@
 ---
 title: "Paul"
-url: /limoges/paul-rue-jean-jaures/
+url: /limoges/paul-avenue-garibaldi/
 shop: boulangerie
 ---
